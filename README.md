@@ -54,12 +54,6 @@ This dashboard helps recruiters to:
 
 ---
 
-##  Dashboard Preview
-
-
-
----
-
 ##  Author
 
 Data student passionate about analytics, decision-making, and real-world data applications.
